@@ -9,8 +9,12 @@ BlackBerry, and Symbian with a unified JavaScript API.
 Get Started
 -------------------------------------------------------------
 Get the source.
+  the original source:
 
     git clone git://github.com/phonegap/phonegap.git
+
+  my forked version(changes on Android part have been made):
+  	git@github.com:sleepcry/phonegap.git
     
 PhoneGap project is separated into a native project for each 
 device.
